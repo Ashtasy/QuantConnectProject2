@@ -6,14 +6,14 @@ simple trading bot coded and backtested on the QuantConnect Platform.
 
 Backtesting Results:
 
-Initial Equity ~ $100,000.00 
-Trade Period ~ 01/01/2022 - 01/01/2024 
-Final Equity ~ $132,646.90
-Fees ~ $35.66
-Holdings ~ $120,648.74
-Net Profit ~ $16,045.14
-PSR ~ 42.499%
-Return ~ 32.65 %
+- Initial Equity ~ $100,000.00 
+- Trade Period ~ 01/01/2022 - 01/01/2024 
+- Final Equity ~ $132,646.90
+- Fees ~ $35.66
+- Holdings ~ $120,648.74
+- Net Profit ~ $16,045.14
+- PSR ~ 42.499%
+- Return ~ 32.65 %
 
 
 How it works:
